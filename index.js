@@ -20,7 +20,7 @@ const questionSet = [
 },
 {
   question : 'My goto fast food (Kolkata special you know :D)? ',
-  answer : 'Roll'
+  answer : ' Chicken Roll'
 },
 {
   question : 'What do i prefer car or bike? ',
